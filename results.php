@@ -1,6 +1,6 @@
 <?php
 
-echo '<a href=http://arshin.corp.exd.ru/> Back </a><br>';
+echo '<a href=http://arshin.***.ru/> Back </a><br>';
 $sorttype = 'date';
 $sorttype = $_GET['sort'] ;
 
