@@ -1,6 +1,5 @@
 124591 2024_17211-98_Istran__16-01-2025-15-23.xlsx.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: |17211-98|, |mi.mitype|: ||, |mi.modification|: |Istran|,|verification_date|: ||}
 124715 2024_12262-90_П287А__16-01-2025-15-24.xlsx.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: |12262-90|, |mi.mitype|: ||, |mi.modification|: |П287А|,|verification_date|: ||}
-125138 2024_arshincorpexdru_БИГ__16-01-2025-16-33.xlsx.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: |arshin.corp.exd.ru|, |mi.mitype|: ||, |mi.modification|: |БИГ|,|verification_date|: ||}
 575022 2024_Элемер_УР-31__31-01-2025-10-41.xlsx.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: |Элемер УР-31|,|verification_date|: ||}
 2746748 2024_37668-13__04-02-2025-10-31.xlsx.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: |37668-13|, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
 2984611 2024_ЭМИС-БАР__04-02-2025-10-46.xlsx.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: |ЭМИС-БАР|, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
