@@ -5,11 +5,15 @@
 
 Общая схема взаимодействия:
 ![Image](https://github.com/Pavelzu/ArshinParcer/blob/main/img/schema.png)
+
 Пример выходного Excel-файла
 ![Image](https://github.com/Pavelzu/ArshinParcer/blob/main/img/excel.png)
+
 Во время выполнения скрипта выводятся логи последней зкпущенной задачи 
 ![Image](https://github.com/Pavelzu/ArshinParcer/blob/main/img/main2.png)
+
 А также, по отдельному адресу можно посмотреть историю логов всех запросов 
 ![Image](https://github.com/Pavelzu/ArshinParcer/blob/main/img/logs.png)
+
 Результаты поисковых запросов выведены на отдельную страницу. Доступен функционал сортировки списка результатов
 ![Image](https://github.com/Pavelzu/ArshinParcer/blob/main/img/results1.png)
