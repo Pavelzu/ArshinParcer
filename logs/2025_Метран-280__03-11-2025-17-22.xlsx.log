@@ -1,0 +1,8 @@
+2025-11-03 17:22:20,678 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 17:22:20,678 MainProcess\__main__ INFO: Ищем {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:22:20,678 MainProcess\__main__ INFO: Пишем в pidlogargs 7147 03-11-2025-17-22.log {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:22:21,201 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 17:22:22,210 MainProcess\__main__ INFO: Общее кол-во результатов 16
+2025-11-03 17:22:22,210 MainProcess\__main__ INFO: Обрабатываем карточку# 1
+2025-11-03 17:22:22,210 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181465
+2025-11-03 17:22:22,719 MainProcess\__main__ INFO: Инфо страница ОК

@@ -1,0 +1,121 @@
+<title>ArshinParser</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <meta charset="UTF-8">
+<div class="form_container">
+	<a href="/results"> История результатов поисков </a>
+	<br>
+	<a href="results.php?sort=date"> История результатов поисков (Test Version)</a>
+	<br>
+	
+	<a href="/logs"> Логи </a>
+	<br>
+	<a href="/currenttasks.php"> Текущие задания </a>
+	<br>
+	
+	<br>
+	<div id="message" ></div>
+
+	<form id="wform">
+		
+	<table width="500" border =0 >
+		<colgroup>
+		
+		<col style="width: 40%;">
+		<col style="width: 60%;">
+	 	 </colgroup>
+		<tr>
+		  <td>Год</td>
+		  <td><input type="text" name="Year" value="2024" size= 80></td>
+		</tr>
+		
+		<tr>
+		  <td>Организация-поверитель</td>
+		  <td><input type="text" name="Organisation" size= 80></td>
+		</tr>
+		
+		<tr>
+		  <td>Регистрационный номер типа СИ</td>
+		  <td><input type="text" name="Regnom" size= 80></td>
+		</tr>
+		<tr>
+		  <td>Наименование типа СИ</td>
+		  <td><input type="text" name="TypeSiName" size= 80></td>
+		</tr>
+		<tr>
+		  <td>Тип СИ</td>
+		  <td><input type="text" name="TypeSi" size= 80></td>
+		</tr>
+		<tr>
+		  <td>Модификация СИ</td>
+		  <td><input type="text" name="ModificationSi" size= 80></td>
+		</tr>
+		<tr>
+		  <td colspan = 2 align=left>Дата поверки</td>
+		  
+		</tr>
+		<tr>
+		  <td><input type="date" name="PoverkaDateOt"></td>
+		  <td><input type="date" name="PoverkaDateDo"></td>
+		</tr>
+		
+	</table>
+		<br>
+	
+		<input type="hidden" id="raknagore" name="raknagore" value = "5"> 
+		<input type="submit" name="sendbtn" value="Отправить" >
+		<br>
+
+	</form>
+	<div id="inputFields"></div>
+	<div id="postform"></div>
+
+</div>
+<script>
+$("#wform").on("submit", function(){
+	var myButton = document.getElementsByName('sendbtn')[0];
+	myButton.setAttribute('disabled', '');
+	
+	$.ajax({
+
+		url: 'handler.php',
+		method: 'post',
+		dataType: 'html',
+		data: $(this).serialize(),
+		success: function(data){
+			var flagfield = document.getElementById("raknagore");
+			flagfield.value = 'stop';
+			$('#postform').html(data);
+
+		}
+
+	});
+
+	
+	var set_delay = 100,
+    callout = function () {
+        $.ajax({
+            url: 'hndl.php',
+			method: 'post',
+			dataType: 'html',
+			data: $(this).serialize(),
+			success: function(data){
+			var f = document.getElementById("raknagore").value;
+			if (f=="stop")
+				{
+				set_delay = 99999999;
+				alert("Работа скрипта окончена");
+				}	
+			$('#postform').html(data);
+		}
+
+        })
+        .always(function () {
+            setTimeout(callout, set_delay);
+        });
+    };
+	callout();
+	
+	return false;
+
+});
+</script>

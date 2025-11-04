@@ -1,0 +1,108 @@
+2025-11-03 17:34:14,386 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 17:34:14,386 MainProcess\__main__ INFO: Ищем {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:34:14,387 MainProcess\__main__ INFO: Пишем в pidlogargs 8299 03-11-2025-17-34.log {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:34:15,029 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 17:34:16,054 MainProcess\__main__ INFO: Общее кол-во результатов 16
+2025-11-03 17:34:16,054 MainProcess\__main__ INFO: Обрабатываем карточку# 1
+2025-11-03 17:34:16,054 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181465
+2025-11-03 17:34:16,571 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:16,572 MainProcess\__main__ INFO: Обрабатываем карточку# 2
+2025-11-03 17:34:16,572 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181466
+2025-11-03 17:34:17,149 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:17,149 MainProcess\__main__ INFO: Обрабатываем карточку# 3
+2025-11-03 17:34:17,149 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181463
+2025-11-03 17:34:17,663 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:17,663 MainProcess\__main__ INFO: Обрабатываем карточку# 4
+2025-11-03 17:34:17,663 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181464
+2025-11-03 17:34:18,186 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:18,186 MainProcess\__main__ INFO: Обрабатываем карточку# 5
+2025-11-03 17:34:18,186 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181467
+2025-11-03 17:34:18,622 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:18,623 MainProcess\__main__ INFO: Обрабатываем карточку# 6
+2025-11-03 17:34:18,623 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181468
+2025-11-03 17:34:19,118 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:19,119 MainProcess\__main__ INFO: Обрабатываем карточку# 7
+2025-11-03 17:34:19,119 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181454
+2025-11-03 17:34:19,566 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:19,566 MainProcess\__main__ INFO: Обрабатываем карточку# 8
+2025-11-03 17:34:19,566 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181455
+2025-11-03 17:34:20,098 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:20,099 MainProcess\__main__ INFO: Обрабатываем карточку# 9
+2025-11-03 17:34:20,099 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181453
+2025-11-03 17:34:20,615 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:20,615 MainProcess\__main__ INFO: Обрабатываем карточку# 10
+2025-11-03 17:34:20,615 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181458
+2025-11-03 17:34:21,058 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:21,058 MainProcess\__main__ INFO: Обрабатываем карточку# 11
+2025-11-03 17:34:21,058 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181459
+2025-11-03 17:34:21,548 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:21,549 MainProcess\__main__ INFO: Обрабатываем карточку# 12
+2025-11-03 17:34:21,549 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181456
+2025-11-03 17:34:22,035 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:22,036 MainProcess\__main__ INFO: Обрабатываем карточку# 13
+2025-11-03 17:34:22,036 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181457
+2025-11-03 17:34:23,804 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:23,804 MainProcess\__main__ INFO: Обрабатываем карточку# 14
+2025-11-03 17:34:23,804 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181461
+2025-11-03 17:34:24,228 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:24,228 MainProcess\__main__ INFO: Обрабатываем карточку# 15
+2025-11-03 17:34:24,228 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181462
+2025-11-03 17:34:24,719 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:24,720 MainProcess\__main__ INFO: Обрабатываем карточку# 16
+2025-11-03 17:34:24,720 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181460
+2025-11-03 17:34:25,236 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:25,252 MainProcess\__main__ INFO: Записали в файл <a href = "/results/2025_Метран-280__03-11-2025-17-34.xlsx">2025_Метран-280__03-11-2025-17-34.xlsx</a>
+2025-11-03 17:34:31,624 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 17:34:31,624 MainProcess\__main__ INFO: Ищем {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:34:31,624 MainProcess\__main__ INFO: Пишем в pidlogargs 10587 03-11-2025-17-34.log {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:34:32,096 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 17:34:33,100 MainProcess\__main__ INFO: Общее кол-во результатов 16
+2025-11-03 17:34:33,100 MainProcess\__main__ INFO: Обрабатываем карточку# 1
+2025-11-03 17:34:33,100 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181465
+2025-11-03 17:34:33,645 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:33,646 MainProcess\__main__ INFO: Обрабатываем карточку# 2
+2025-11-03 17:34:33,646 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181466
+2025-11-03 17:34:34,115 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:34,115 MainProcess\__main__ INFO: Обрабатываем карточку# 3
+2025-11-03 17:34:34,115 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181463
+2025-11-03 17:34:34,542 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:34,542 MainProcess\__main__ INFO: Обрабатываем карточку# 4
+2025-11-03 17:34:34,542 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181464
+2025-11-03 17:34:34,996 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:34,996 MainProcess\__main__ INFO: Обрабатываем карточку# 5
+2025-11-03 17:34:34,996 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181467
+2025-11-03 17:34:35,447 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:35,447 MainProcess\__main__ INFO: Обрабатываем карточку# 6
+2025-11-03 17:34:35,447 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181468
+2025-11-03 17:34:35,900 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:35,901 MainProcess\__main__ INFO: Обрабатываем карточку# 7
+2025-11-03 17:34:35,901 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181454
+2025-11-03 17:34:36,395 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:36,396 MainProcess\__main__ INFO: Обрабатываем карточку# 8
+2025-11-03 17:34:36,396 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181455
+2025-11-03 17:34:36,943 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:36,943 MainProcess\__main__ INFO: Обрабатываем карточку# 9
+2025-11-03 17:34:36,943 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181453
+2025-11-03 17:34:37,418 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:37,418 MainProcess\__main__ INFO: Обрабатываем карточку# 10
+2025-11-03 17:34:37,418 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181458
+2025-11-03 17:34:37,931 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:37,931 MainProcess\__main__ INFO: Обрабатываем карточку# 11
+2025-11-03 17:34:37,931 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181459
+2025-11-03 17:34:38,481 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:38,481 MainProcess\__main__ INFO: Обрабатываем карточку# 12
+2025-11-03 17:34:38,481 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181456
+2025-11-03 17:34:39,068 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:39,068 MainProcess\__main__ INFO: Обрабатываем карточку# 13
+2025-11-03 17:34:39,068 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181457
+2025-11-03 17:34:40,635 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:40,637 MainProcess\__main__ INFO: Обрабатываем карточку# 14
+2025-11-03 17:34:40,637 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181461
+2025-11-03 17:34:41,158 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:41,158 MainProcess\__main__ INFO: Обрабатываем карточку# 15
+2025-11-03 17:34:41,158 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181462
+2025-11-03 17:34:41,613 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:41,613 MainProcess\__main__ INFO: Обрабатываем карточку# 16
+2025-11-03 17:34:41,613 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181460
+2025-11-03 17:34:42,061 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:34:42,078 MainProcess\__main__ INFO: Записали в файл <a href = "/results/2025_Метран-280__03-11-2025-17-34.xlsx">2025_Метран-280__03-11-2025-17-34.xlsx</a>

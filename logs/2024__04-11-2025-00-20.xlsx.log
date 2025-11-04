@@ -1,0 +1,56 @@
+2025-11-04 00:20:29,373 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-04 00:20:29,374 MainProcess\__main__ INFO: Ищем {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:20:29,374 MainProcess\__main__ INFO: Пишем в pidlogargs 82736 04-11-2025-00-20.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:20:34,998 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:20:36,003 MainProcess\__main__ INFO: Общее кол-во результатов 91357547
+2025-11-04 00:20:36,009 MainProcess\__main__ INFO: грузим страницу# 2
+2025-11-04 00:20:41,269 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:20:41,274 MainProcess\__main__ INFO: грузим страницу# 3
+2025-11-04 00:20:46,629 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:20:46,634 MainProcess\__main__ INFO: грузим страницу# 4
+2025-11-04 00:20:52,262 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:20:52,267 MainProcess\__main__ INFO: грузим страницу# 5
+2025-11-04 00:20:58,340 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:20:58,345 MainProcess\__main__ INFO: грузим страницу# 6
+2025-11-04 00:21:04,150 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:04,155 MainProcess\__main__ INFO: грузим страницу# 7
+2025-11-04 00:21:10,420 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:10,425 MainProcess\__main__ INFO: грузим страницу# 8
+2025-11-04 00:21:16,419 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:16,424 MainProcess\__main__ INFO: грузим страницу# 9
+2025-11-04 00:21:22,004 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:22,009 MainProcess\__main__ INFO: грузим страницу# 10
+2025-11-04 00:21:27,452 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:27,457 MainProcess\__main__ INFO: грузим страницу# 11
+2025-11-04 00:21:33,273 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:33,278 MainProcess\__main__ INFO: грузим страницу# 12
+2025-11-04 00:21:40,126 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:40,131 MainProcess\__main__ INFO: грузим страницу# 13
+2025-11-04 00:21:45,327 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:45,333 MainProcess\__main__ INFO: грузим страницу# 14
+2025-11-04 00:21:50,258 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:50,263 MainProcess\__main__ INFO: грузим страницу# 15
+2025-11-04 00:21:55,768 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:21:55,773 MainProcess\__main__ INFO: грузим страницу# 16
+2025-11-04 00:22:01,031 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:01,036 MainProcess\__main__ INFO: грузим страницу# 17
+2025-11-04 00:22:09,838 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:09,843 MainProcess\__main__ INFO: грузим страницу# 18
+2025-11-04 00:22:15,847 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:15,852 MainProcess\__main__ INFO: грузим страницу# 19
+2025-11-04 00:22:21,935 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:21,940 MainProcess\__main__ INFO: грузим страницу# 20
+2025-11-04 00:22:27,846 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:27,851 MainProcess\__main__ INFO: грузим страницу# 21
+2025-11-04 00:22:33,472 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:33,477 MainProcess\__main__ INFO: грузим страницу# 22
+2025-11-04 00:22:38,526 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:38,532 MainProcess\__main__ INFO: грузим страницу# 23
+2025-11-04 00:22:43,896 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:43,903 MainProcess\__main__ INFO: грузим страницу# 24
+2025-11-04 00:22:49,402 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:49,407 MainProcess\__main__ INFO: грузим страницу# 25
+2025-11-04 00:22:55,245 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:22:55,250 MainProcess\__main__ INFO: грузим страницу# 26
+2025-11-04 00:23:00,378 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:23:00,378 MainProcess\__main__ INFO: Не сошлись колво результатов и колво ссылок на устройства

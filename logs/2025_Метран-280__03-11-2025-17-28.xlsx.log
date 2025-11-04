@@ -1,0 +1,16 @@
+2025-11-03 17:28:21,489 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 17:28:21,489 MainProcess\__main__ INFO: Ищем {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:28:21,489 MainProcess\__main__ INFO: Пишем в pidlogargs 7445 03-11-2025-17-28.log {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:28:22,263 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 17:28:23,279 MainProcess\__main__ INFO: Общее кол-во результатов 16
+2025-11-03 17:28:23,279 MainProcess\__main__ INFO: Обрабатываем карточку# 1
+2025-11-03 17:28:23,279 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181465
+2025-11-03 17:28:24,000 MainProcess\__main__ INFO: Инфо страница ОК
+2025-11-03 17:28:55,825 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 17:28:55,825 MainProcess\__main__ INFO: Ищем {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:28:55,825 MainProcess\__main__ INFO: Пишем в pidlogargs 7721 03-11-2025-17-28.log {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 17:28:56,372 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 17:28:57,378 MainProcess\__main__ INFO: Общее кол-во результатов 16
+2025-11-03 17:28:57,378 MainProcess\__main__ INFO: Обрабатываем карточку# 1
+2025-11-03 17:28:57,378 MainProcess\__main__ INFO: Грузим страницу https://fgis.gost.ru/fundmetrology/cm/iaux/vri/1-478181465
+2025-11-03 17:28:57,962 MainProcess\__main__ INFO: Инфо страница ОК

@@ -1,0 +1,8 @@
+2025-11-03 23:55:39,000 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 23:55:39,001 MainProcess\__main__ INFO: Ищем {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-03 23:55:39,001 MainProcess\__main__ INFO: Пишем в pidlogargs 65996 03-11-2025-23-55.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-03 23:55:44,705 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 23:55:45,718 MainProcess\__main__ INFO: Общее кол-во результатов 91357547
+2025-11-03 23:55:45,723 MainProcess\__main__ INFO: грузим страницу# 2
+2025-11-03 23:55:49,886 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-03 23:55:49,887 MainProcess\__main__ INFO: Не сошлись колво результатов и колво ссылок на устройства

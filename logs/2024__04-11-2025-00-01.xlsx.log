@@ -1,0 +1,12 @@
+2025-11-04 00:01:58,645 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-04 00:01:58,645 MainProcess\__main__ INFO: Ищем {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:01:58,645 MainProcess\__main__ INFO: Пишем в pidlogargs 71687 04-11-2025-00-01.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:02:04,611 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:02:05,921 MainProcess\__main__ INFO: Общее кол-во результатов 91357547
+2025-11-04 00:02:05,927 MainProcess\__main__ INFO: грузим страницу# 2
+2025-11-04 00:02:11,294 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:02:11,299 MainProcess\__main__ INFO: грузим страницу# 3
+2025-11-04 00:02:16,651 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:02:16,657 MainProcess\__main__ INFO: грузим страницу# 4
+2025-11-04 00:02:22,325 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:02:22,331 MainProcess\__main__ INFO: грузим страницу# 5

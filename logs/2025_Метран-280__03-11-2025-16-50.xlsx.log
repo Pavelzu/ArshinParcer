@@ -1,0 +1,8 @@
+2025-11-03 16:50:31,695 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-03 16:50:31,696 MainProcess\__main__ INFO: Ищем {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 16:50:31,696 MainProcess\__main__ INFO: Пишем в pidlogargs 4929 03-11-2025-16-50.log {|verification_year|: |2025|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: |Метран-280|, |mi.modification|: ||,|verification_date|: |[2025-11-03T00:00:00Z TO 2025-11-03T23:59:59Z]|}
+2025-11-03 16:50:32,735 MainProcess\selenium.webdriver.common.selenium_manager WARNING: Cache folder (/var/www/.cache/selenium) cannot be created: Permission denied (os error 13)
+2025-11-03 16:50:32,735 MainProcess\selenium.webdriver.common.selenium_manager WARNING: Cache folder (/var/www/.cache/selenium) cannot be created: Permission denied (os error 13)
+2025-11-03 16:50:32,736 MainProcess\selenium.webdriver.common.selenium_manager WARNING: Cache folder (/var/www/.cache/selenium) cannot be created: Permission denied (os error 13)
+2025-11-03 16:50:32,736 MainProcess\selenium.webdriver.common.selenium_manager WARNING: Cache folder (/var/www/.cache/selenium) cannot be created: Permission denied (os error 13)
+2025-11-03 16:50:32,736 MainProcess\selenium.webdriver.common.selenium_manager WARNING: Cache folder (/var/www/.cache/selenium) cannot be created: Permission denied (os error 13)

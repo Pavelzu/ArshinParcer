@@ -1,0 +1,19 @@
+https://fgis.gost.ru/fundmetrology/cm/xcdb/vri/select?fq=org_title:*%D0%BE%D1%80%D0%B3*&fq=mi.mitnumber:*%D1%80%D0%B5%D0%B3%D0%BD%D0%BE*&fq=mi.mititle:*%D0%B8%D0%BC%D1%8F%D1%81%D0%B8*&fq=mi.mitype:*%D1%82%D0%B8%D0%BF%D1%81%D0%B8*&fq=mi.modification:*%D0%BC%D0%BE%D0%B4%D0%B8%D1%81%D0%B8*&fq=verification_date:[2024-09-01T00:00:00Z%20TO%202024-09-30T23:59:59Z]&q=*&fl=vri_id,org_title,mi.mitnumber,mi.mititle,mi.mitype,mi.modification,mi.number,verification_date,valid_date,applicability,result_docnum,sticker_num&sort=verification_date+desc,org_title+asc&rows=20&start=0
+
+https://fgis.gost.ru/fundmetrology/cm/xcdb/vri/select?fq=verification_year:2024&fq=org_title:*%D0%BE%D1%80%D0%B3*&fq=mi.mitnumber:*%D1%80%D0%B5%D0%B3%D0%BD%D0%BE*&fq=mi.mititle:*%D0%B8%D0%BC%D1%8F%D1%81%D0%B8*&fq=mi.mitype:*%D1%82%D0%B8%D0%BF%D1%81%D0%B8*&fq=mi.modification:*%D0%BC%D0%BE%D0%B4%D0%B8%D1%81%D0%B8*&fq=verification_date:[2024-09-05T00:00:00Z%20TO%202024-09-30T23:59:59Z]&q=*&fl=vri_id,org_title,mi.mitnumber,mi.mititle,mi.mitype,mi.modification,mi.number,verification_date,valid_date,applicability,result_docnum,sticker_num&sort=verification_date+desc,org_title+asc&rows=20&start=0
+
+
+no dates and year
+https://fgis.gost.ru/fundmetrology/cm/xcdb/vri/select?fq=org_title:*%D0%BE%D1%80%D0%B3*&fq=mi.mitnumber:*%D1%80%D0%B5%D0%B3%D0%BD%D0%BE*&fq=mi.mititle:*%D0%B8%D0%BC%D1%8F%D1%81%D0%B8*&fq=mi.mitype:*%D1%82%D0%B8%D0%BF%D1%81%D0%B8*&fq=mi.modification:*%D0%BC%D0%BE%D0%B4%D0%B8%D1%81%D0%B8*&q=*&fl=vri_id,org_title,mi.mitnumber,mi.mititle,mi.mitype,mi.modification,mi.number,verification_date,valid_date,applicability,result_docnum,sticker_num&sort=verification_date+desc,org_title+asc&rows=20&start=0
+
+only right date
+https://fgis.gost.ru/fundmetrology/cm/xcdb/vri/select?fq=org_title:*%D0%BE%D1%80%D0%B3*&fq=mi.mitnumber:*%D1%80%D0%B5%D0%B3%D0%BD%D0%BE*&fq=mi.mititle:*%D0%B8%D0%BC%D1%8F%D1%81%D0%B8*&fq=mi.mitype:*%D1%82%D0%B8%D0%BF%D1%81%D0%B8*&fq=mi.modification:*%D0%BC%D0%BE%D0%B4%D0%B8%D1%81%D0%B8*&fq=verification_date:[*%20TO%202024-09-11T23:59:59Z]&q=*&fl=vri_id,org_title,mi.mitnumber,mi.mititle,mi.mitype,mi.modification,mi.number,verification_date,valid_date,applicability,result_docnum,sticker_num&sort=verification_date+desc,org_title+asc&rows=20&start=0
+
+only left date
+https://fgis.gost.ru/fundmetrology/cm/xcdb/vri/select?fq=org_title:*%D0%BE%D1%80%D0%B3*&fq=mi.mitnumber:*%D1%80%D0%B5%D0%B3%D0%BD%D0%BE*&fq=mi.mititle:*%D0%B8%D0%BC%D1%8F%D1%81%D0%B8*&fq=mi.mitype:*%D1%82%D0%B8%D0%BF%D1%81%D0%B8*&fq=mi.modification:*%D0%BC%D0%BE%D0%B4%D0%B8%D1%81%D0%B8*&fq=verification_date:[2024-09-03T00:00:00Z%20TO%20*]&q=*&fl=vri_id,org_title,mi.mitnumber,mi.mititle,mi.mitype,mi.modification,mi.number,verification_date,valid_date,applicability,result_docnum,sticker_num&sort=verification_date+desc,org_title+asc&rows=20&start=0
+
+
+Запуск grendparser с параметрами 
+sudo -u www-data python3 grandparcer.py {|Год|: |2024|, |Организация|: |ФБУ ^ПРИОКСКИЙ ЦСМ^|, |Наименование типа|: |Уровнемеры радиоволновые|, |Регистрационный номер типа|: |16861-08|, |Тип|: |улм|, |Модификация|: |УЛМ-31А1|,|Дата|: |[2024-09-10T00:00:00Z TO 2024-09-11T23:59:59Z]|}
+
+

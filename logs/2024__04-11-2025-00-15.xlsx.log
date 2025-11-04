@@ -1,0 +1,52 @@
+2025-11-04 00:15:53,207 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-04 00:15:53,207 MainProcess\__main__ INFO: Ищем {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:15:53,207 MainProcess\__main__ INFO: Пишем в pidlogargs 79081 04-11-2025-00-15.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:15:59,440 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:00,444 MainProcess\__main__ INFO: Общее кол-во результатов 91357547
+2025-11-04 00:16:00,450 MainProcess\__main__ INFO: грузим страницу# 2
+2025-11-04 00:16:05,192 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:05,197 MainProcess\__main__ INFO: грузим страницу# 3
+2025-11-04 00:16:10,719 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:10,724 MainProcess\__main__ INFO: грузим страницу# 4
+2025-11-04 00:16:16,604 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:16,610 MainProcess\__main__ INFO: грузим страницу# 5
+2025-11-04 00:16:22,001 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:22,006 MainProcess\__main__ INFO: грузим страницу# 6
+2025-11-04 00:16:27,689 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:27,694 MainProcess\__main__ INFO: грузим страницу# 7
+2025-11-04 00:16:33,036 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:33,041 MainProcess\__main__ INFO: грузим страницу# 8
+2025-11-04 00:16:38,082 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:38,087 MainProcess\__main__ INFO: грузим страницу# 9
+2025-11-04 00:16:44,111 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:44,116 MainProcess\__main__ INFO: грузим страницу# 10
+2025-11-04 00:16:50,341 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:50,347 MainProcess\__main__ INFO: грузим страницу# 11
+2025-11-04 00:16:56,281 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:16:56,287 MainProcess\__main__ INFO: грузим страницу# 12
+2025-11-04 00:17:02,023 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:02,028 MainProcess\__main__ INFO: грузим страницу# 13
+2025-11-04 00:17:07,416 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:07,421 MainProcess\__main__ INFO: грузим страницу# 14
+2025-11-04 00:17:12,539 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:12,545 MainProcess\__main__ INFO: грузим страницу# 15
+2025-11-04 00:17:19,144 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:19,149 MainProcess\__main__ INFO: грузим страницу# 16
+2025-11-04 00:17:27,579 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:27,584 MainProcess\__main__ INFO: грузим страницу# 17
+2025-11-04 00:17:33,112 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:33,118 MainProcess\__main__ INFO: грузим страницу# 18
+2025-11-04 00:17:37,782 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:37,788 MainProcess\__main__ INFO: грузим страницу# 19
+2025-11-04 00:17:43,476 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:43,481 MainProcess\__main__ INFO: грузим страницу# 20
+2025-11-04 00:17:49,297 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:49,303 MainProcess\__main__ INFO: грузим страницу# 21
+2025-11-04 00:17:54,805 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:17:54,810 MainProcess\__main__ INFO: грузим страницу# 22
+2025-11-04 00:18:00,186 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:18:00,191 MainProcess\__main__ INFO: грузим страницу# 23
+2025-11-04 00:18:05,222 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:18:05,227 MainProcess\__main__ INFO: грузим страницу# 24
+2025-11-04 00:18:10,618 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:18:10,618 MainProcess\__main__ INFO: Не сошлись колво результатов и колво ссылок на устройства

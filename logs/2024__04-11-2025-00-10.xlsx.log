@@ -1,0 +1,42 @@
+2025-11-04 00:10:50,505 MainProcess\__main__ INFO: Запуск скрипта
+2025-11-04 00:10:50,505 MainProcess\__main__ INFO: Ищем {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:10:50,505 MainProcess\__main__ INFO: Пишем в pidlogargs 76720 04-11-2025-00-10.log {|verification_year|: |2024|, |org_title|: ||, |mi.mititle|: ||, |mi.mitnumber|: ||, |mi.mitype|: ||, |mi.modification|: ||,|verification_date|: ||}
+2025-11-04 00:10:57,221 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:10:58,225 MainProcess\__main__ INFO: Общее кол-во результатов 91357547
+2025-11-04 00:10:58,231 MainProcess\__main__ INFO: грузим страницу# 2
+2025-11-04 00:11:03,640 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:03,646 MainProcess\__main__ INFO: грузим страницу# 3
+2025-11-04 00:11:09,606 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:09,611 MainProcess\__main__ INFO: грузим страницу# 4
+2025-11-04 00:11:14,399 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:14,406 MainProcess\__main__ INFO: грузим страницу# 5
+2025-11-04 00:11:20,222 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:20,228 MainProcess\__main__ INFO: грузим страницу# 6
+2025-11-04 00:11:25,769 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:25,774 MainProcess\__main__ INFO: грузим страницу# 7
+2025-11-04 00:11:31,806 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:31,813 MainProcess\__main__ INFO: грузим страницу# 8
+2025-11-04 00:11:37,014 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:37,020 MainProcess\__main__ INFO: грузим страницу# 9
+2025-11-04 00:11:42,315 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:42,322 MainProcess\__main__ INFO: грузим страницу# 10
+2025-11-04 00:11:47,368 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:47,373 MainProcess\__main__ INFO: грузим страницу# 11
+2025-11-04 00:11:52,513 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:52,519 MainProcess\__main__ INFO: грузим страницу# 12
+2025-11-04 00:11:57,782 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:11:57,788 MainProcess\__main__ INFO: грузим страницу# 13
+2025-11-04 00:12:03,416 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:03,422 MainProcess\__main__ INFO: грузим страницу# 14
+2025-11-04 00:12:08,511 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:08,516 MainProcess\__main__ INFO: грузим страницу# 15
+2025-11-04 00:12:13,785 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:13,792 MainProcess\__main__ INFO: грузим страницу# 16
+2025-11-04 00:12:19,833 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:19,839 MainProcess\__main__ INFO: грузим страницу# 17
+2025-11-04 00:12:24,978 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:24,984 MainProcess\__main__ INFO: грузим страницу# 18
+2025-11-04 00:12:30,974 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:30,983 MainProcess\__main__ INFO: грузим страницу# 19
+2025-11-04 00:12:36,139 MainProcess\__main__ INFO: Главная страница ОК
+2025-11-04 00:12:36,139 MainProcess\__main__ INFO: Не сошлись колво результатов и колво ссылок на устройства
